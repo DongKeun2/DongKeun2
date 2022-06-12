@@ -1,4 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongKeun2&count_bg=%23000000&title_bg=%23000000&icon=awesomelists.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&text=DongKeun&animation=fadeIn&fontAlign=30)
 
 ## ✨Experience
 #### Ajou Univ. (2015.02 ~ 2022.02) Bachelor of Science in Physics
@@ -7,7 +9,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrms121)](https://solved.ac/ehdrms121/)
 
-## 🎨Tools
+<h2>🎨Tools</h2>
 <div>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>

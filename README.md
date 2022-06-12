@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongKeun2&show_icons=true&theme=radical&langs_count=8)](https://github.com/DongKeun2/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrms121)](https://solved.ac/ehdrms121/)
+
+
+<img src="https://img.shields.io/badge/Django-#092E20?style=flat-square&logo=Django&logoColor=white"/>

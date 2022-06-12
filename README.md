@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrms121)](https://solved.ac/ehdrms121/)
 
 
-<img src="https://img.shields.io/badge/Django-#092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>

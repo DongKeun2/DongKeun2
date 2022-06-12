@@ -1,8 +1,10 @@
-## 안녕하세요 일단 시도해보는 개발자 이동근입니다👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongKeun2&count_bg=%23000000&title_bg=%23000000&icon=awesomelists.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongKeun2&count_bg=%232F1C5E&title_bg=%23939E34&icon=awesomelists.svg&icon_color=%23000000&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+## ✨Experience
+#### Ajou Univ. (2015.02 ~ 2022.02)
+#### Bachelor of Science in Physics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongKeun2&exclude_repo=DongKeun2.github.io,algorithm)](https://github.com/anuraghazra/github-readme-stats)
+#### SSAFY (2022.01 ~ ing)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrms121)](https://solved.ac/ehdrms121/)
 
@@ -13,11 +15,9 @@
   <img src="https://img.shields.io/badge/Google Chrome-4285F4?style=flat-square&logo=Google Chrome&logoColor=white"/>
 </div>
 
-
-
 ## 🖌️Skills
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" href="#"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </div>
 <div>
@@ -42,5 +42,10 @@
 <div>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
-
 </div>
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongKeun2&show_icons=true&theme=dracula&hide=prs,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongKeun2&exclude_repo=DongKeun2.github.io,algorithm&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,8 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongKeun2&count_bg=%23000000&title_bg=%23000000&icon=awesomelists.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## ✨Experience
-#### Ajou Univ. (2015.02 ~ 2022.02)
-#### Bachelor of Science in Physics
+#### Ajou Univ. (2015.02 ~ 2022.02) Bachelor of Science in Physics
 
 #### SSAFY (2022.01 ~ ing)
 

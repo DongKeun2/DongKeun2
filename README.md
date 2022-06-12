@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 일단 시도해보는 개발자 이동근입니다👋
 
 <!--
 **DongKeun2/DongKeun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongKeun2&langs_count=8)](https://github.com/DongKeun2/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrms121)](https://solved.ac/ehdrms121/)

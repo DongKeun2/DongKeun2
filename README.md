@@ -48,6 +48,6 @@
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongKeun2&show_icons=true&theme=dracula&hide=prs,contribs)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongKeun2&exclude_repo=DongKeun2.github.io,algorithm&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongKeun2&show_icons=true&theme=dracula&hide=prs,contribs)

@@ -2,12 +2,19 @@
   
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&text=DongKeun&animation=fadeIn&fontAlign=30)
 
+## Who am I?
+💻During Drafting
+
+<br/>
+
 ## ✨Experience
 #### Ajou Univ. (2015.02 ~ 2022.02) Bachelor of Science in Physics
 
 #### SSAFY (2022.01 ~ ing)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrms121)](https://solved.ac/ehdrms121/)
+
+<br/>
 
 <h2>🎨Tools</h2>
 <div>

@@ -49,6 +49,7 @@
 <div>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
@@ -63,7 +64,7 @@
 
 ## 👟 Studying
 <div>
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux Saga-999999?style=flat-square&logo=ReduxSaga&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </div>
 

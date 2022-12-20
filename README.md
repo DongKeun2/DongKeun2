@@ -10,7 +10,7 @@
 ## ✨Experience
 #### Ajou Univ. (2015.02 ~ 2022.02) Bachelor of Science in Physics
 
-#### SSAFY 7(2022.01 ~ 2022.12)
+#### SSAFY 7th (2022.01 ~ 2022.12)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrms121)](https://solved.ac/ehdrms121/)
 

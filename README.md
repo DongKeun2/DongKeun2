@@ -14,6 +14,8 @@
 
 #### SSAFY 7th (2022.01 ~ 2022.12)
 
+#### TMAX WAPL (2023.06 ~)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdrms121)](https://solved.ac/ehdrms121/)
 
 <br/>
